@@ -124,23 +124,15 @@ Sector distribution by respondent count, and the same distribution broken down b
 4. Three institutions (Ekiti State University, Federal Polytechnic Ado-Ekiti, and College of Health Sciences and Technology Ijero-Ekiti) account for over a third of all respondents, making them natural anchors for outreach or partnership efforts.
 5. Health Care is the most reported personal skill (37%), ahead of Project Management (21%), and tracks closely with Health being the top sector of interest, unlike Tech, where stated interest outpaces reported technical skills.
 
-###  Recommendations
-- Prioritize Health and Education sector programming, since together they represent the stated 
-interest of roughly 6 in 10 respondents, and design them knowing the audience will be 
-predominantly female.
-- Treat Tech-sector interest as a training opportunity rather than a placement-ready pool. Stated 
-interest (11%) outpaces the smaller number of respondents reporting concrete tech skills, so 
-foundational training may be needed before placement. 
-- Anchor outreach and partnership efforts at the top three to five institutions (Ekiti State 
-University, Federal Polytechnic Ado-Ekiti, College of Health Sciences and Technology Ijero-Ekiti, 
-College of Education Ikere-Ekiti, and Kwara State College of Health Technology Offa), which 
-together reach roughly 40% of this population. 
-- Build any gender-focused programming with the sector splits above in mind. A single generic 
-program is unlikely to reach male respondents in Health or female respondents in Tech without 
-deliberate design. 
-- Consider a lighter-touch follow-up on data collection itself: the same free-text problems that 
-required cleanup here (schools, sectors, and skills all typed inconsistently) will recur in future 
-survey rounds unless the intake form uses fixed dropdown choices instead of open text fields.
+## Recommendations
+
+Condensed from the [executive report](reports/Ekiti_Unemployment_Survey_Executive_Report.docx):
+
+1. **Prioritize Health and Education sector programming.** Together they represent the stated interest of roughly 6 in 10 respondents; design them knowing the audience will be predominantly female.
+2. **Treat Tech-sector interest as a training opportunity, not a placement-ready pool.** Stated interest (11%) outpaces the number of respondents reporting concrete tech skills, so foundational training likely needs to precede placement.
+3. **Anchor outreach and partnerships at the top institutions.** Ekiti State University, Federal Polytechnic Ado-Ekiti, College of Health Sciences and Technology Ijero-Ekiti, College of Education Ikere-Ekiti, and Kwara State College of Health Technology Offa together reach roughly 40% of this population.
+4. **Design gender-focused programming around the actual sector splits**, not an assumption of even participation. A generic program is unlikely to reach male respondents in Health or female respondents in Tech without deliberate design.
+5. **Fix data collection at the source.** The free-text problems that required most of the cleanup here (schools, sectors, and skills all typed inconsistently) will recur in future survey rounds unless the intake form uses fixed dropdown choices instead of open text fields.
 
 ### Tools
 
