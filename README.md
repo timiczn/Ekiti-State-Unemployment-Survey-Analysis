@@ -9,7 +9,7 @@
 - [Key Measures](#key-measures)
 - [Dashboard](#dashboard)
 - [Key Insights](#key-insights)
-- [Recommendations](Recommendations)
+- [Recommendations](#recommendations)
 - [Tools](#tools)
 - [Limitations](#limitations)
 
