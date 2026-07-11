@@ -124,9 +124,7 @@ Sector distribution by respondent count, and the same distribution broken down b
 4. Three institutions (Ekiti State University, Federal Polytechnic Ado-Ekiti, and College of Health Sciences and Technology Ijero-Ekiti) account for over a third of all respondents, making them natural anchors for outreach or partnership efforts.
 5. Health Care is the most reported personal skill (37%), ahead of Project Management (21%), and tracks closely with Health being the top sector of interest, unlike Tech, where stated interest outpaces reported technical skills.
 
-## Recommendations
-
-Condensed from the [executive report](reports/Ekiti_Unemployment_Survey_Executive_Report.docx):
+### Recommendations
 
 1. **Prioritize Health and Education sector programming.** Together they represent the stated interest of roughly 6 in 10 respondents; design them knowing the audience will be predominantly female.
 2. **Treat Tech-sector interest as a training opportunity, not a placement-ready pool.** Stated interest (11%) outpaces the number of respondents reporting concrete tech skills, so foundational training likely needs to precede placement.
